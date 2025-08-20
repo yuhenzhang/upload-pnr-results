@@ -1,0 +1,8 @@
+.mvn/
+.vscode/
+config.properties
+target/
+logs/
+test-result-downloads/
+.gradle
+build
